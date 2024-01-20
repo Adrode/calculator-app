@@ -1,11 +1,13 @@
+import Main from "./Main";
 import Title from "./Title";
 
 function App() {
   return (
     <>
-      <Title 
+      <Title
         text="Calculator"
       />
+      <Main />
     </>
   );
 }
