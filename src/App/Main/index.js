@@ -1,8 +1,9 @@
 import { MainStyled } from "./styled";
 
-const Main = ({ result }) => (
+const Main = ({ result, buttons }) => (
     <MainStyled>
         {result}
+        {buttons}
     </MainStyled>
 );
 

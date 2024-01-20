@@ -1,6 +1,7 @@
 import Title from "./Title";
 import Main from "./Main";
 import Result from "./Result";
+import Buttons from "./Buttons";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       />
       <Main 
         result={<Result />}
+        buttons={<Buttons />}
       />
     </>
   );
