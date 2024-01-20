@@ -1,9 +1,14 @@
 - Normalize - DONE
+- Icon
+- page bg image
 - OpenGraph
 - GlobalStyle - DONE
-- Theme
-- Main Component
-- Title
-- div result display/ Result comp
-- Buttons comp (div, onClick)
+- Theme - DONE
+- Main Component - DONE
+- Title - DONE
+- Result comp - DONE
+ - Logic
+- Buttons comp
+ - Logic (div, onClick) 
 - Footer
+- Blinking Result initial text
