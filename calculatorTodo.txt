@@ -1,0 +1,9 @@
+- Normalize - DONE
+- OpenGraph
+- GlobalStyle - DONE
+- Theme
+- Main Component
+- Title
+- div result display/ Result comp
+- Buttons comp (div, onClick)
+- Footer
