@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const MainStyled = styled.main`
     margin: 0px auto;
-    padding: 10px;
+    padding: 20px;
     background-color: ${({ theme }) => theme.color.grey};
     max-width: 400px;
     border: 1px solid black;

@@ -1,7 +1,9 @@
 import { MainStyled } from "./styled";
 
-const Main = () => (
-    <MainStyled>Smth</MainStyled>
+const Main = ({ result }) => (
+    <MainStyled>
+        {result}
+    </MainStyled>
 );
 
 export default Main;

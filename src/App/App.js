@@ -1,5 +1,6 @@
-import Main from "./Main";
 import Title from "./Title";
+import Main from "./Main";
+import Result from "./Result";
 
 function App() {
   return (
@@ -7,7 +8,9 @@ function App() {
       <Title
         text="Calculator"
       />
-      <Main />
+      <Main 
+        result={<Result />}
+      />
     </>
   );
 }
