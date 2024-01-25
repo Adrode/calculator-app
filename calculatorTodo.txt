@@ -7,8 +7,8 @@
 - Main Component - DONE
 - Title - DONE
 - Result comp - DONE
- - Logic
+      - Logic
 - Buttons comp
- - Logic (div, onClick) 
+      - Logic (div, onClick) 
 - Footer
 - Blinking Result initial text
