@@ -1,6 +1,6 @@
 # Calculator App
 
-[DEMO]("https://adrode.github.io/calculator-app/")
+[DEMO](https://adrode.github.io/calculator-app/)
 
 # Getting Started with Create React App
 
