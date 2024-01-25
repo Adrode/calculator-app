@@ -8,7 +8,7 @@ const Buttons = () => {
     const [numbers, setNumbers] = useState([{}]);
 
     const setOperation = () => {
-        if (inputNumber === "" || inputSymbol === "") {
+        if (inputNumber === "") {
             return;
         }
 
